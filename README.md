@@ -4,9 +4,9 @@
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2038@e-mirim.hs.kr"/></a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&theme=radical&include_all_commits=true&line_height=40px)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&theme=radical&card_width=350px&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&theme=radical&include_all_commits=true&line_height=40px)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <!--
 **c04nh/c04nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
