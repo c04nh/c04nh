@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
-
+<br>
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&theme=radical&card_width=350px&langs_count=10"/>
  </p>
