@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&theme=radical&card_width=350px&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&theme=radical&include_all_commits=true&line_height=30px)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?c04nh=willianrod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
