@@ -6,7 +6,7 @@
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2038@e-mirim.hs.kr"/></a>
 </p>
-
+<br>
 <h3 align=center> 🖤Account🖤 </h3>
 <p align=center>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
