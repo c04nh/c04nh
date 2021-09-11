@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nahyun Cho%20render&fontSize=90)
+
 <h1 align=center> Hi there 👋 </h1>
 
 <h3 align=center> 🛠Tech Stack🛠 </h3>
