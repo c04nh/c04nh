@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align=center> Hi there 👋 </h1>
 
 <p align=center>
 <a href="https://www.instagram.com/c_04.nh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
