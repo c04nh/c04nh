@@ -23,12 +23,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?c04nh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?c04nh=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&theme=radical&card_width=350px&langs_count=10"/>
- </p>
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&theme=radical&include_all_commits=true&line_height=30px"/>
- </p>
+
 
 
 <!--
