@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/c_04.nh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
-![](https://readme-stickers.vercel.app/api/kodeveloper?name=조나현)
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=조나현&theme=dark)
 
 </br>
 </br>
