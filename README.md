@@ -1,8 +1,8 @@
 <p align=center>
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
 
-<h1 align=center> Hi there 👋 </h1>
-<br>
+<h1 align=center> Hi there 👋 </h1><br>
+
 
 <br>
 <h3 align=center> 🛠Tech Stack🛠 </h3>
