@@ -19,7 +19,7 @@
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c04nh&line_height=28&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&layout=compact&langs_count=10&card_width=480)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&layout=compact&langs_count=10&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
