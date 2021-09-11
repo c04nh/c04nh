@@ -1,6 +1,8 @@
 <p align=center>
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
+</p>
 <br>
+
 <h3 align=center> 🛠Tech Stack🛠 </h3>
 <p align=center>
 <a href="https://www.instagram.com/c_04.nh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
