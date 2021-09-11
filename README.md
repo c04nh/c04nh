@@ -3,7 +3,7 @@
 </p>
 <br>
 
-<h1 align=center> Hi there 👋 <br> </h1><br>
+<h2 align=center> Hi there 👋 </h2>
 
 <h3 align=center> 🛠Tech Stack🛠 </h3>
 <p align=center>
