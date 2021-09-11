@@ -2,9 +2,6 @@
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
 </p>
 <br>
-
-<h2 align=center> Hi there 👋 </h2>
-
 <h3 align=center> 🛠Tech Stack🛠 </h3>
 <p align=center>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -15,8 +12,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-
 </p>
 <br>
 <h3 align=center> 🖤Account🖤 </h3>
