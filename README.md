@@ -1,3 +1,4 @@
+<span style='background-color:#fff5b1'>
 <p align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=96C3EB&fontColor=ffffff&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
 </p>
@@ -21,7 +22,6 @@
 </br>
 </br>
 
-<span style='background-color:#fff5b1'>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&include_all_commits=true&theme=brufy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&layout=compact&langs_count=10&theme=brufy&hide_border=true" /></a> |
 | ------------- | ------------- |
 </span>
