@@ -17,9 +17,6 @@
 <a href="https://www.instagram.com/c_04.nh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://hub.docker.com/u/nhsally"><img src="https://img.shields.io/badge/Docker hub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<br>
-<img>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c04nh&theme=dark&show_icons=true)</img>
-
 </br>
 </br>
 </br>
