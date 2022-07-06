@@ -11,6 +11,7 @@
  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/django%20-44B78B?style=flat-square&logo=django&logoColor=white"/></a>
 </p>
 <br>
 <h3> 🖤Account🖤 </h3>
