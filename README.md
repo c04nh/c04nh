@@ -21,7 +21,7 @@
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://hub.docker.com/u/nhsally"><img src="https://img.shields.io/badge/Docker hub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="https://www.notion.so/eufonia/POTFOLIO-d91e46f653c74a578fd589006f9b9b91"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://eufonia.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FCFCFC?style=flat-square&logo=Tistory&logoColor=black"/></a>
+<a href="https://eufonia.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F5F5F5?style=flat-square&logo=Tistory&logoColor=black"/></a>
 
 </br>
 </br>
