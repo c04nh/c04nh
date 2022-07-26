@@ -1,5 +1,5 @@
 <p align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=96C3EB&fontColor=ffffff&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=DECBF7&fontColor=ffffff&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
 </p>
 <h3> 🛠Tech Stack🛠 </h3>
 <p>
