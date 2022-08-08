@@ -14,6 +14,7 @@
  <img src="https://img.shields.io/badge/django%20-44B78B?style=flat-square&logo=django&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> </a>
+ <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"> </a>
 </p>
 <br>
 <h3> Account </h3>
