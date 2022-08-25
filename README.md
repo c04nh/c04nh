@@ -16,8 +16,8 @@
  🥉  <img src="https://img.shields.io/badge/django%20-44B78B?style=flat-square&logo=django&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> </a>
  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"> </a>
-</p>
-(배우는 중이에요)<br>
+(배우는 중이에요)</p>
+<br>
 <h3> Account </h3>
 <a href="https://www.instagram.com/c_04.nh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 <a href="https://m.facebook.com/profile.php"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
