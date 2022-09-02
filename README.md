@@ -23,9 +23,7 @@
 <a href="https://www.notion.so/eufonia/POTFOLIO-d91e46f653c74a578fd589006f9b9b91"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://eufonia.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F5F5F5?style=flat-square&logo=Tistory&logoColor=black"/></a>
 
-</br>
-</br>
-</br>
-   
+<br>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=c04nh&show_icons=true&include_all_commits=true&theme=brufy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c04nh&layout=compact&langs_count=8&theme=brufy&hide_border=true" /></a> | 
 | ------------- | ------------- |
