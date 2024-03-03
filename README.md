@@ -19,11 +19,6 @@
  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white">
 <br>
 </p>
-
-<h3> Personal Page </h3>
-<a href="https://www.notion.so/eufonia/POTFOLIO-d91e46f653c74a578fd589006f9b9b91"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://eufonia.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F5F5F5?style=flat-square&logo=Tistory&logoColor=black"/></a>
-
 <br>
 <br>
 <br>
