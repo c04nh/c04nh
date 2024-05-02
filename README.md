@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=DECBF7&fontColor=ffffff&height=300&section=header&text=Nahyun%20Cho&fontSize=90"/>
 </p>
 
-<h3> Tech Stack </h3>
+// <h3> Tech Stack </h3>
 <!-- <p>
 🥇  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
