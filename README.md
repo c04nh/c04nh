@@ -3,7 +3,7 @@
 </p>
 
 <h3> Tech Stack </h3>
-<p>
+<!-- <p>
 🥇  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white">
 <br>
-</p>
+</p> -->
 <br>
 <br>
 <br>
